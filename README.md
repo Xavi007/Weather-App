@@ -17,4 +17,4 @@ Android Studio Project
 
 
 ![Screenshot (164)](https://user-images.githubusercontent.com/93143666/189377494-3ede96b9-01b2-4229-9479-a1d458c64aea.png)
-                                     ![Screenshot (165)](https://user-images.githubusercontent.com/93143666/189377546-80ec3ca4-e428-426d-b064-e7ce8430144f.png)
+                                     
