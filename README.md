@@ -1,7 +1,7 @@
 # Weather-App
 Android Studio Project
 
-➢PROJECT DONE BY XAVIER DIAS
+
 
 ➢Layout
 
@@ -14,10 +14,3 @@ Android Studio Project
 
 
 
-➢Results
-
-
-
-
-![Screenshot (164)](https://user-images.githubusercontent.com/93143666/189377494-3ede96b9-01b2-4229-9479-a1d458c64aea.png)
-                                     
