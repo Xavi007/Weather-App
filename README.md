@@ -5,9 +5,9 @@ In this project, we have build an app that will find the device’s location coo
 
 
 For this app to work we need to ask for three permissions from the system –
-Coarse Location – <uses-permission android:name=”android.permission.ACCESS_COARSE_LOCATION”/>
-Fine Location – <uses-permission android:name=”android.permission.ACCESS_FINE_LOCATION”/>
-Internet – <uses-permission android:name=”android.permission.INTERNET”/>
+Coarse Location – <uses-permission android:name=”android.permission.ACCESS_COARSE_LOCATION”/n>
+Fine Location – <uses-permission android:name=”android.permission.ACCESS_FINE_LOCATION”/n>
+Internet – <uses-permission android:name=”android.permission.INTERNET”/n>
 
 To get JSON we need to use Volley Library to make an HTTP client request
 
