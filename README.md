@@ -14,7 +14,7 @@ To get JSON we need to use Volley Library to make an HTTP client request
 Volley is an HTTP library that makes networking very easy and fast, for Android apps. It was developed by Google and introduced during Google I/O 2013.
 
 Add ‘implementation com.android.volley:volley:1.1.1’ to the gradle app file.
-Create the http for the JSON. For example – “https://api.weatherbit.io/v2.0/current?” + “lat=” + location?.latitude +”&lon=”+ location?.longitude + “&key=”+ api_id1. Here we have already generated API key as well as the location coordinates.
+Here we have already generated API key as well as the location coordinates.
 Make a request from this URL and get the data.
 
 ➢Layout
