@@ -36,7 +36,7 @@ If you liked the project, please give it a star ⭐
 If you have any feedback, please reach out to me!!
 
 # Contributing -
-Contributions are always welcome!!
+Contributions are always welcome!
 
 
 
